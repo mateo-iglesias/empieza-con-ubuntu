@@ -251,6 +251,4 @@ También revisa:
 ## 👤 Autor
 
 **Anderson Mateo Iglesias Suárez**
-Administración de redes y soporte TI · Estudiante de Ingeniería de Sistemas · Enfocado en ciberseguridad
-
-Si este repo te ayudó, déjale una ⭐ y compártelo con alguien que le tenga miedo a Linux.
+Administración de redes y soporte TI · Estudiante de Ingeniería de Sistemas · ciberseguridad
